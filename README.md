@@ -1,4 +1,4 @@
 # 22tools
 Install seperti biasa
 Jangan lupa pilih install bahan
-Setiap seminggu sekali update :)
+Setiap sehari sekali update :)
